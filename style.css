@@ -1,0 +1,41 @@
+.bg-soft-blue{
+    background-color: #f0f5f9;
+}
+
+.max-width{
+    max-width: 320px;
+}
+
+.max-w-33{
+    width: 38%;
+    @media (max-width: 768px){
+        width: 100%;
+    }
+}
+
+.width33{
+    width: 33%;
+}
+
+
+.containerme{
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+
+.wi{
+    width: 40%;
+    @media (max-width: 768px){
+        width: 100%;
+    }
+}
+
+
+.wi2{
+    width: 58%;
+    @media(max-width: 768px){
+        width: 100%;
+    }
+}
